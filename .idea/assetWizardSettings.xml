@@ -80,8 +80,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Memória_atualz_digital.png" />
-                                                <entry key="scalingPercent" value="103" />
+                                                <entry key="imagePath" value="C:\Memória_atualzzz_digital.png" />
+                                                <entry key="scalingPercent" value="121" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -113,7 +113,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundLayerName" value="ic_launcher_atualizado_foreground" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_novo_foreground" />
                                     </map>
                                   </option>
                                 </PersistentState>
