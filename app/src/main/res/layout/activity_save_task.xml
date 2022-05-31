@@ -13,7 +13,7 @@
 		app:navigationIcon="@drawable/ic_navigate"
 		app:subtitleTextColor="#101010"
 		app:title="@string/label_new_task"
-		app:titleTextColor="#636061" />
+		app:titleTextColor="#772247" />
 
 	<androidx.constraintlayout.widget.Guideline
 		android:id="@+id/guide_start"
@@ -95,7 +95,7 @@
 		android:layout_height="wrap_content"
 		android:layout_marginTop="16dp"
 		android:hint="@string/label_message_task"
-		android:textColorHint="#636061"
+		android:textColorHint="#772247"
 		android:textSize="18sp"
 		android:visibility="gone"
 		app:layout_constraintEnd_toStartOf="@+id/guide_end"
@@ -110,7 +110,7 @@
 		android:layout_height="wrap_content"
 		android:text="@string/label_cancel"
 		android:textAllCaps="true"
-		android:textColor="#636061"
+		android:textColor="#772247"
 		app:layout_constraintBottom_toTopOf="@id/btn_save_task"
 		app:layout_constraintEnd_toEndOf="@id/guide_end"
 		app:layout_constraintStart_toStartOf="@id/guide_start" />
@@ -123,7 +123,8 @@
 		android:layout_marginBottom="16dp"
 		android:text="@string/label_new_task"
 		android:textAllCaps="true"
-		android:textColorLink="#636061"
+		android:textColor="#772247"
+		android:textColorLink="#772247"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintEnd_toEndOf="@id/guide_end"
 		app:layout_constraintStart_toStartOf="@id/guide_start" />

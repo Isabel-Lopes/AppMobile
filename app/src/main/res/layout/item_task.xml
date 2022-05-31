@@ -10,7 +10,8 @@
 		android:id="@+id/tv_title"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:textColor="#636061"
+		android:textColor="#772247
+"
 		android:textSize="18sp"
 		android:textStyle="bold"
 		app:layout_constraintStart_toStartOf="parent"

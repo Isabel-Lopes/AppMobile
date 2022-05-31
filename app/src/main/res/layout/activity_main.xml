@@ -12,7 +12,7 @@
 		android:layout_height="wrap_content"
 		android:layout_margin="16dp"
 		android:text="@string/label_tasks"
-		android:textColor="#636061"
+		android:textColor="#772247"
 		android:textSize="24sp"
 		app:layout_constraintStart_toStartOf="parent"
 		app:layout_constraintTop_toTopOf="parent" />
@@ -43,7 +43,7 @@
 		android:layout_height="wrap_content"
 		android:layout_margin="16dp"
 		android:contentDescription="@string/label_description_new_task"
-		app:backgroundTint="#636061"
+		app:backgroundTint="#772247"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintEnd_toEndOf="parent"
 		app:srcCompat="@drawable/ic_add" />
