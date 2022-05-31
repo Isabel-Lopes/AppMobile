@@ -1,5 +1,5 @@
 <resources>
-	<string name="app_name">Kotlin To Do List</string>
+	<string name="app_name">Memória Digital</string>
 	<string name="label_new_task">Gere seu Lembrete</string>
 	<string name="label_edit_task">Editar Lembrete</string>
 	<string name="label_message_task">Informe o nome do seu lembrete!</string>
