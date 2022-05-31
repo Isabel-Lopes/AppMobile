@@ -13,7 +13,7 @@
 		android:layout_height="wrap_content"
 		android:gravity="center"
 		android:text="@string/label_you_dont_have_tasks"
-		android:textColor="#772247"
+		android:textColor="#0B0B0B"
 		android:textSize="24sp"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintEnd_toEndOf="parent"
